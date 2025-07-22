@@ -1,0 +1,74 @@
+Part 1: Simulating 24-Hour Traffic Flow
+Hour 1: Vehicle counts recorded
+Hour 2: Vehicle counts recorded
+Hour 3: Vehicle counts recorded
+Hour 4: Vehicle counts recorded
+Hour 5: Vehicle counts recorded
+Hour 6: Vehicle counts recorded
+Hour 7: Vehicle counts recorded
+Hour 8: Vehicle counts recorded
+Hour 9: Vehicle counts recorded
+Hour 10: Vehicle counts recorded
+Hour 11: Vehicle counts recorded
+Hour 12: Vehicle counts recorded
+Hour 13: Vehicle counts recorded
+Hour 14: Vehicle counts recorded
+Hour 15: Vehicle counts recorded
+Hour 16: Vehicle counts recorded
+Hour 17: Vehicle counts recorded
+Hour 18: Vehicle counts recorded
+Hour 19: Vehicle counts recorded
+Hour 20: Vehicle counts recorded
+Hour 21: Vehicle counts recorded
+Hour 22: Vehicle counts recorded
+Hour 23: Vehicle counts recorded
+Hour 24: Vehicle counts recorded
+Traffic simulation for 24 hours completed.
+Hour 1: Red phase, time = 0
+Hour 1: Red phase, time = 10
+Hour 1: Red phase, time = 20
+Hour 1: Red phase, time = 30
+Hour 1: Red phase, time = 40
+Hour 1: Red phase, time = 50
+Hour 1: Red phase, time = 60
+Hour 1: Red phase, time = 70
+Hour 1: Red phase, time = 80
+Hour 1: Red phase, time = 90
+Hour 1: Green phase, time = 92.3542
+Hour 1: Green phase, time = 102.3542
+Hour 1: Green phase, time = 112.3542
+Part 2: Processing Traffic Data
+Traffic Matrix for Hour 1:
+    80    68    78   100
+    42    98    96    83
+    48    15    68    80
+     6    68    77    25
+    79    45    61    88
+    76    15    86    85
+Total Vehicles per Direction for All Hours:
+   331   309   466   461
+   367   228   373   191
+   212   409   276   313
+   280   179   358   300
+   238   348   229   442
+   310   277   367   237
+   181   299   301   326
+   315   178   355   273
+   221   348   230   385
+   283   253   223   401
+   213   395   329   301
+   294   342   151   357
+   374   172   335   298
+   362   369   297   227
+   369   330   236   451
+   277   220   159   285
+   309   352   318   321
+   226   278   289   318
+   452   244   339   218
+   387   332   325   346
+   311   251   229   320
+   369   229   248   447
+   296   323   120   248
+   351   258   377   347
+Peak Traffic Hour: Hour 1 with 1567 vehicles
+Simulation and data processing complete.
